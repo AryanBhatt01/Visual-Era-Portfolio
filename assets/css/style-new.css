@@ -2058,7 +2058,7 @@ main.touch .main-wrap {
 }
 
 .single-about-image .overlay:nth-child(1) {
-    background: url("../img/DSC07312-2.jpg") center center no-repeat;
+    background: url("/visualera.com/assets/img/visualera1200x1800.jpg") center center no-repeat;
     background-size: cover;
     top: -20vh;
     height: 105%;
@@ -2317,7 +2317,7 @@ main.touch .main-wrap {
    top: -25%;
    width: 105%;
    left: -5%; */
-    background: url("../img/DSC07079.jpg") center center no-repeat;
+    background: url("/visualera.com/assets/img/ve2048x1365\ \(2\).jpg") center center no-repeat;
     background-size: cover;
     top: -3%;
     height: 106%;
@@ -2390,7 +2390,7 @@ main.touch .main-wrap {
         padding-top: 125%;
     }
     .about-awwwards .single-image .overlay:nth-child(1) {
-        background: url("../img/DSC07079.jpg") center center no-repeat;
+        background: url("/visualera.com/assets/img/ve2048x1365\ \(2\).jpg") center center no-repeat;
         background-size: cover;
         top: -8%;
         height: 110%;
